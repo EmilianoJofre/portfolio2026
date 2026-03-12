@@ -1,0 +1,41 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#050505" />
+  <circle cx="975" cy="126" r="216" fill="url(#goldGlow)" fill-opacity="0.35" />
+  <circle cx="156" cy="573" r="228" fill="url(#emberGlow)" fill-opacity="0.22" />
+  <path d="M142 126H1059" stroke="#A7843B" stroke-opacity="0.3" />
+  <path d="M142 315H1059" stroke="#A7843B" stroke-opacity="0.18" />
+  <path d="M142 504H1059" stroke="#A7843B" stroke-opacity="0.3" />
+  <path d="M600 92V538" stroke="#A7843B" stroke-opacity="0.18" />
+  <rect x="120" y="96" width="960" height="438" rx="32" stroke="url(#frame)" stroke-opacity="0.4" />
+  <text x="150" y="246" fill="#F8F2E7" font-family="Space Grotesk, sans-serif" font-size="64" font-weight="700">
+    Emiliano Jofre
+  </text>
+  <text x="150" y="322" fill="#E8C97A" font-family="Space Grotesk, sans-serif" font-size="34" font-weight="500">
+    Senior Full-Stack Engineer &amp; Digital Systems Architect
+  </text>
+  <text x="150" y="392" fill="#C8BDA7" font-family="Manrope, sans-serif" font-size="28">
+    Digital alchemy for scalable systems, cloud architecture,
+  </text>
+  <text x="150" y="432" fill="#C8BDA7" font-family="Manrope, sans-serif" font-size="28">
+    resilient operations, and modern product engineering.
+  </text>
+  <circle cx="931" cy="315" r="118" stroke="#E8C97A" stroke-width="2" stroke-opacity="0.8" />
+  <circle cx="931" cy="315" r="74" stroke="#E8C97A" stroke-opacity="0.4" />
+  <circle cx="931" cy="315" r="12" fill="#E8C97A" />
+  <path d="M931 197V433" stroke="#E8C97A" stroke-opacity="0.18" />
+  <path d="M813 315H1049" stroke="#E8C97A" stroke-opacity="0.18" />
+  <defs>
+    <radialGradient id="goldGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(975 126) rotate(90) scale(216)">
+      <stop stop-color="#E8C97A" />
+      <stop offset="1" stop-color="#E8C97A" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="emberGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(156 573) rotate(90) scale(228)">
+      <stop stop-color="#7F5615" />
+      <stop offset="1" stop-color="#7F5615" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="frame" x1="120" y1="96" x2="1080" y2="534" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E8C97A" />
+      <stop offset="1" stop-color="#7F5615" />
+    </linearGradient>
+  </defs>
+</svg>
