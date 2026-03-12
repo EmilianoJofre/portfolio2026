@@ -23,9 +23,6 @@ export default function ContactSection() {
                 <MessageSquareCode size={18} /> {contactDetails.primaryCta}
               </a>
               <div className="contact-panel__socials flex gap-4 mt-6">
-                <a href="https://github.com/emilianojofre" target="_blank" rel="noreferrer" className="button button--ghost button--small">
-                  <Github size={18} /> GitHub
-                </a>
                 <a href="https://linkedin.com/in/emiliano-j-b72557121" target="_blank" rel="noreferrer" className="button button--ghost button--small">
                   <Linkedin size={18} /> LinkedIn
                 </a>
